@@ -1,0 +1,14 @@
+body{
+    padding-top: 80px;
+    padding-bottom: 60px;
+    background-color: lightgreen;;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+footer{
+    height: 20px;
+    text-align: center;
+}
